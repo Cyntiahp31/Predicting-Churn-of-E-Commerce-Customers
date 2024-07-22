@@ -1,6 +1,8 @@
 # E-Commerce Customer Churn Analysis: Using Predictive Modeling
 Presentation Link: https://www.canva.com/design/DAGKYi7R1ZM/a2uQke-69yZraYEA30Godg/view?utm_content=DAGKYi7R1ZM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 Tableau Link: 
+
 ## Created by our team:
 ### Alif Wahyu Syahnanda [Profile](https://www.linkedin.com/in/alifsyahnanda)
 ### Cyntia Angelica [Profile](https://www.linkedin.com/in/cyntia-angelica-6b5439217)
